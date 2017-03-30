@@ -1,0 +1,555 @@
+Confusion Matrix:
+
+Predicted                                  Brain_-_Amygdala  \
+Actual                                                        
+Brain_-_Amygdala                                          2   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                  2   
+Brain_-_Caudate_(Basal_Ganglia)                           1   
+Brain_-_Cerebellar_Hemisphere                             0   
+Brain_-_Cerebellum                                        0   
+Brain_-_Cortex                                            1   
+Brain_-_Frontal_Cortex_(Ba9)                              1   
+Brain_-_Hippocampus                                       1   
+Brain_-_Hypothalamus                                      3   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                 1   
+Brain_-_Putamen_(Basal_Ganglia)                           2   
+Brain_-_Spinal_Cord_(Cervical_C-1)                        0   
+Brain_-_Substantia_Nigra                                  0   
+__all__                                                  14   
+
+Predicted                                  Brain_-_Anterior_Cingulate_Cortex_(Ba24)  \
+Actual                                                                                
+Brain_-_Amygdala                                                                  2   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                                          3   
+Brain_-_Caudate_(Basal_Ganglia)                                                   0   
+Brain_-_Cerebellar_Hemisphere                                                     0   
+Brain_-_Cerebellum                                                                0   
+Brain_-_Cortex                                                                    0   
+Brain_-_Frontal_Cortex_(Ba9)                                                      1   
+Brain_-_Hippocampus                                                               0   
+Brain_-_Hypothalamus                                                              0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                                         0   
+Brain_-_Putamen_(Basal_Ganglia)                                                   0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                                0   
+Brain_-_Substantia_Nigra                                                          0   
+__all__                                                                           6   
+
+Predicted                                  Brain_-_Caudate_(Basal_Ganglia)  \
+Actual                                                                       
+Brain_-_Amygdala                                                         1   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                                 0   
+Brain_-_Caudate_(Basal_Ganglia)                                          5   
+Brain_-_Cerebellar_Hemisphere                                            0   
+Brain_-_Cerebellum                                                       0   
+Brain_-_Cortex                                                           0   
+Brain_-_Frontal_Cortex_(Ba9)                                             0   
+Brain_-_Hippocampus                                                      0   
+Brain_-_Hypothalamus                                                     0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                                0   
+Brain_-_Putamen_(Basal_Ganglia)                                          5   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                       0   
+Brain_-_Substantia_Nigra                                                 0   
+__all__                                                                 11   
+
+Predicted                                  Brain_-_Cerebellar_Hemisphere  \
+Actual                                                                     
+Brain_-_Amygdala                                                       0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                               0   
+Brain_-_Caudate_(Basal_Ganglia)                                        0   
+Brain_-_Cerebellar_Hemisphere                                          4   
+Brain_-_Cerebellum                                                     0   
+Brain_-_Cortex                                                         0   
+Brain_-_Frontal_Cortex_(Ba9)                                           0   
+Brain_-_Hippocampus                                                    0   
+Brain_-_Hypothalamus                                                   0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                              0   
+Brain_-_Putamen_(Basal_Ganglia)                                        0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                     0   
+Brain_-_Substantia_Nigra                                               0   
+__all__                                                                4   
+
+Predicted                                  Brain_-_Cerebellum  Brain_-_Cortex  \
+Actual                                                                          
+Brain_-_Amygdala                                            0               0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                    0               0   
+Brain_-_Caudate_(Basal_Ganglia)                             0               0   
+Brain_-_Cerebellar_Hemisphere                               3               0   
+Brain_-_Cerebellum                                          7               0   
+Brain_-_Cortex                                              0               5   
+Brain_-_Frontal_Cortex_(Ba9)                                0               1   
+Brain_-_Hippocampus                                         0               0   
+Brain_-_Hypothalamus                                        0               0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                   0               0   
+Brain_-_Putamen_(Basal_Ganglia)                             0               0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                          0               0   
+Brain_-_Substantia_Nigra                                    0               0   
+__all__                                                    10               6   
+
+Predicted                                  Brain_-_Frontal_Cortex_(Ba9)  \
+Actual                                                                    
+Brain_-_Amygdala                                                      0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                              2   
+Brain_-_Caudate_(Basal_Ganglia)                                       0   
+Brain_-_Cerebellar_Hemisphere                                         0   
+Brain_-_Cerebellum                                                    0   
+Brain_-_Cortex                                                        0   
+Brain_-_Frontal_Cortex_(Ba9)                                          4   
+Brain_-_Hippocampus                                                   1   
+Brain_-_Hypothalamus                                                  0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                             0   
+Brain_-_Putamen_(Basal_Ganglia)                                       0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                    0   
+Brain_-_Substantia_Nigra                                              1   
+__all__                                                               8   
+
+Predicted                                  Brain_-_Hippocampus  \
+Actual                                                           
+Brain_-_Amygdala                                             0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                     0   
+Brain_-_Caudate_(Basal_Ganglia)                              0   
+Brain_-_Cerebellar_Hemisphere                                0   
+Brain_-_Cerebellum                                           0   
+Brain_-_Cortex                                               0   
+Brain_-_Frontal_Cortex_(Ba9)                                 0   
+Brain_-_Hippocampus                                          5   
+Brain_-_Hypothalamus                                         0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                    1   
+Brain_-_Putamen_(Basal_Ganglia)                              0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                           0   
+Brain_-_Substantia_Nigra                                     0   
+__all__                                                      6   
+
+Predicted                                  Brain_-_Hypothalamus  \
+Actual                                                            
+Brain_-_Amygdala                                              0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                      0   
+Brain_-_Caudate_(Basal_Ganglia)                               0   
+Brain_-_Cerebellar_Hemisphere                                 0   
+Brain_-_Cerebellum                                            0   
+Brain_-_Cortex                                                0   
+Brain_-_Frontal_Cortex_(Ba9)                                  0   
+Brain_-_Hippocampus                                           0   
+Brain_-_Hypothalamus                                          3   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                     0   
+Brain_-_Putamen_(Basal_Ganglia)                               0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                            0   
+Brain_-_Substantia_Nigra                                      0   
+__all__                                                       3   
+
+Predicted                                  Brain_-_Nucleus_Accumbens_(Basal_Ganglia)  \
+Actual                                                                                 
+Brain_-_Amygdala                                                                   0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                                           0   
+Brain_-_Caudate_(Basal_Ganglia)                                                    1   
+Brain_-_Cerebellar_Hemisphere                                                      0   
+Brain_-_Cerebellum                                                                 0   
+Brain_-_Cortex                                                                     0   
+Brain_-_Frontal_Cortex_(Ba9)                                                       0   
+Brain_-_Hippocampus                                                                0   
+Brain_-_Hypothalamus                                                               0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                                          4   
+Brain_-_Putamen_(Basal_Ganglia)                                                    0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                                 0   
+Brain_-_Substantia_Nigra                                                           0   
+__all__                                                                            5   
+
+Predicted                                  Brain_-_Putamen_(Basal_Ganglia)  \
+Actual                                                                       
+Brain_-_Amygdala                                                         0   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                                 0   
+Brain_-_Caudate_(Basal_Ganglia)                                          0   
+Brain_-_Cerebellar_Hemisphere                                            0   
+Brain_-_Cerebellum                                                       0   
+Brain_-_Cortex                                                           0   
+Brain_-_Frontal_Cortex_(Ba9)                                             0   
+Brain_-_Hippocampus                                                      0   
+Brain_-_Hypothalamus                                                     0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                                1   
+Brain_-_Putamen_(Basal_Ganglia)                                          0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                       0   
+Brain_-_Substantia_Nigra                                                 0   
+__all__                                                                  1   
+
+Predicted                                  Brain_-_Spinal_Cord_(Cervical_C-1)  \
+Actual                                                                          
+Brain_-_Amygdala                                                            1   
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                                    0   
+Brain_-_Caudate_(Basal_Ganglia)                                             0   
+Brain_-_Cerebellar_Hemisphere                                               0   
+Brain_-_Cerebellum                                                          0   
+Brain_-_Cortex                                                              0   
+Brain_-_Frontal_Cortex_(Ba9)                                                0   
+Brain_-_Hippocampus                                                         0   
+Brain_-_Hypothalamus                                                        0   
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                                   0   
+Brain_-_Putamen_(Basal_Ganglia)                                             0   
+Brain_-_Spinal_Cord_(Cervical_C-1)                                          5   
+Brain_-_Substantia_Nigra                                                    1   
+__all__                                                                     7   
+
+Predicted                                  Brain_-_Substantia_Nigra  __all__  
+Actual                                                                        
+Brain_-_Amygdala                                                  1        7  
+Brain_-_Anterior_Cingulate_Cortex_(Ba24)                          0        7  
+Brain_-_Caudate_(Basal_Ganglia)                                   0        7  
+Brain_-_Cerebellar_Hemisphere                                     0        7  
+Brain_-_Cerebellum                                                0        7  
+Brain_-_Cortex                                                    1        7  
+Brain_-_Frontal_Cortex_(Ba9)                                      0        7  
+Brain_-_Hippocampus                                               0        7  
+Brain_-_Hypothalamus                                              1        7  
+Brain_-_Nucleus_Accumbens_(Basal_Ganglia)                         0        7  
+Brain_-_Putamen_(Basal_Ganglia)                                   0        7  
+Brain_-_Spinal_Cord_(Cervical_C-1)                                0        5  
+Brain_-_Substantia_Nigra                                          4        6  
+__all__                                                           7       88  
+
+
+Overall Statistics:
+
+Accuracy: 0.579545454545
+95% CI: (0.46954349975404663, 0.68403844416152859)
+No Information Rate: ToDo
+P-Value [Acc > NIR]: 3.16864657124e-19
+Kappa: 0.54455168555
+Mcnemar's Test P-Value: ToDo
+
+
+Class Statistics:
+
+Classes                               Brain_-_Amygdala  \
+Population                                          88   
+P: Condition positive                                7   
+N: Condition negative                               81   
+Test outcome positive                               14   
+Test outcome negative                               74   
+TP: True Positive                                    2   
+TN: True Negative                                   69   
+FP: False Positive                                  12   
+FN: False Negative                                   5   
+TPR: (Sensitivity, hit rate, recall)          0.285714   
+TNR=SPC: (Specificity)                        0.851852   
+PPV: Pos Pred Value (Precision)               0.142857   
+NPV: Neg Pred Value                           0.932432   
+FPR: False-out                                0.148148   
+FDR: False Discovery Rate                     0.857143   
+FNR: Miss Rate                                0.714286   
+ACC: Accuracy                                 0.806818   
+F1 score                                      0.190476   
+MCC: Matthews correlation coefficient         0.101771   
+Informedness                                  0.137566   
+Markedness                                   0.0752896   
+Prevalence                                   0.0795455   
+LR+: Positive likelihood ratio                 1.92857   
+LR-: Negative likelihood ratio                0.838509   
+DOR: Diagnostic odds ratio                         2.3   
+FOR: False omission rate                     0.0675676   
+
+Classes                               Brain_-_Anterior_Cingulate_Cortex_(Ba24)  \
+Population                                                                  88   
+P: Condition positive                                                        7   
+N: Condition negative                                                       81   
+Test outcome positive                                                        6   
+Test outcome negative                                                       82   
+TP: True Positive                                                            3   
+TN: True Negative                                                           78   
+FP: False Positive                                                           3   
+FN: False Negative                                                           4   
+TPR: (Sensitivity, hit rate, recall)                                  0.428571   
+TNR=SPC: (Specificity)                                                0.962963   
+PPV: Pos Pred Value (Precision)                                            0.5   
+NPV: Neg Pred Value                                                    0.95122   
+FPR: False-out                                                        0.037037   
+FDR: False Discovery Rate                                                  0.5   
+FNR: Miss Rate                                                        0.571429   
+ACC: Accuracy                                                         0.920455   
+F1 score                                                              0.461538   
+MCC: Matthews correlation coefficient                                 0.420319   
+Informedness                                                          0.391534   
+Markedness                                                             0.45122   
+Prevalence                                                           0.0795455   
+LR+: Positive likelihood ratio                                         11.5714   
+LR-: Negative likelihood ratio                                        0.593407   
+DOR: Diagnostic odds ratio                                                19.5   
+FOR: False omission rate                                             0.0487805   
+
+Classes                               Brain_-_Caudate_(Basal_Ganglia)  \
+Population                                                         88   
+P: Condition positive                                               7   
+N: Condition negative                                              81   
+Test outcome positive                                              11   
+Test outcome negative                                              77   
+TP: True Positive                                                   5   
+TN: True Negative                                                  75   
+FP: False Positive                                                  6   
+FN: False Negative                                                  2   
+TPR: (Sensitivity, hit rate, recall)                         0.714286   
+TNR=SPC: (Specificity)                                       0.925926   
+PPV: Pos Pred Value (Precision)                              0.454545   
+NPV: Neg Pred Value                                          0.974026   
+FPR: False-out                                              0.0740741   
+FDR: False Discovery Rate                                    0.545455   
+FNR: Miss Rate                                               0.285714   
+ACC: Accuracy                                                0.909091   
+F1 score                                                     0.555556   
+MCC: Matthews correlation coefficient                         0.52381   
+Informedness                                                 0.640212   
+Markedness                                                   0.428571   
+Prevalence                                                  0.0795455   
+LR+: Positive likelihood ratio                                9.64286   
+LR-: Negative likelihood ratio                               0.308571   
+DOR: Diagnostic odds ratio                                      31.25   
+FOR: False omission rate                                     0.025974   
+
+Classes                               Brain_-_Cerebellar_Hemisphere  \
+Population                                                       88   
+P: Condition positive                                             7   
+N: Condition negative                                            81   
+Test outcome positive                                             4   
+Test outcome negative                                            84   
+TP: True Positive                                                 4   
+TN: True Negative                                                81   
+FP: False Positive                                                0   
+FN: False Negative                                                3   
+TPR: (Sensitivity, hit rate, recall)                       0.571429   
+TNR=SPC: (Specificity)                                            1   
+PPV: Pos Pred Value (Precision)                                   1   
+NPV: Neg Pred Value                                        0.964286   
+FPR: False-out                                                    0   
+FDR: False Discovery Rate                                         0   
+FNR: Miss Rate                                             0.428571   
+ACC: Accuracy                                              0.965909   
+F1 score                                                   0.727273   
+MCC: Matthews correlation coefficient                      0.742307   
+Informedness                                               0.571429   
+Markedness                                                 0.964286   
+Prevalence                                                0.0795455   
+LR+: Positive likelihood ratio                                  inf   
+LR-: Negative likelihood ratio                             0.428571   
+DOR: Diagnostic odds ratio                                      inf   
+FOR: False omission rate                                  0.0357143   
+
+Classes                               Brain_-_Cerebellum Brain_-_Cortex  \
+Population                                            88             88   
+P: Condition positive                                  7              7   
+N: Condition negative                                 81             81   
+Test outcome positive                                 10              6   
+Test outcome negative                                 78             82   
+TP: True Positive                                      7              5   
+TN: True Negative                                     78             80   
+FP: False Positive                                     3              1   
+FN: False Negative                                     0              2   
+TPR: (Sensitivity, hit rate, recall)                   1       0.714286   
+TNR=SPC: (Specificity)                          0.962963       0.987654   
+PPV: Pos Pred Value (Precision)                      0.7       0.833333   
+NPV: Neg Pred Value                                    1        0.97561   
+FPR: False-out                                  0.037037      0.0123457   
+FDR: False Discovery Rate                            0.3       0.166667   
+FNR: Miss Rate                                         0       0.285714   
+ACC: Accuracy                                   0.965909       0.965909   
+F1 score                                        0.823529       0.769231   
+MCC: Matthews correlation coefficient            0.82102       0.753545   
+Informedness                                    0.962963        0.70194   
+Markedness                                           0.7       0.808943   
+Prevalence                                     0.0795455      0.0795455   
+LR+: Positive likelihood ratio                        27        57.8571   
+LR-: Negative likelihood ratio                         0       0.289286   
+DOR: Diagnostic odds ratio                           inf            200   
+FOR: False omission rate                               0      0.0243902   
+
+Classes                               Brain_-_Frontal_Cortex_(Ba9)  \
+Population                                                      88   
+P: Condition positive                                            7   
+N: Condition negative                                           81   
+Test outcome positive                                            8   
+Test outcome negative                                           80   
+TP: True Positive                                                4   
+TN: True Negative                                               77   
+FP: False Positive                                               4   
+FN: False Negative                                               3   
+TPR: (Sensitivity, hit rate, recall)                      0.571429   
+TNR=SPC: (Specificity)                                    0.950617   
+PPV: Pos Pred Value (Precision)                                0.5   
+NPV: Neg Pred Value                                         0.9625   
+FPR: False-out                                           0.0493827   
+FDR: False Discovery Rate                                      0.5   
+FNR: Miss Rate                                            0.428571   
+ACC: Accuracy                                             0.920455   
+F1 score                                                  0.533333   
+MCC: Matthews correlation coefficient                     0.491372   
+Informedness                                              0.522046   
+Markedness                                                  0.4625   
+Prevalence                                               0.0795455   
+LR+: Positive likelihood ratio                             11.5714   
+LR-: Negative likelihood ratio                            0.450835   
+DOR: Diagnostic odds ratio                                 25.6667   
+FOR: False omission rate                                    0.0375   
+
+Classes                               Brain_-_Hippocampus  \
+Population                                             88   
+P: Condition positive                                   7   
+N: Condition negative                                  81   
+Test outcome positive                                   6   
+Test outcome negative                                  82   
+TP: True Positive                                       5   
+TN: True Negative                                      80   
+FP: False Positive                                      1   
+FN: False Negative                                      2   
+TPR: (Sensitivity, hit rate, recall)             0.714286   
+TNR=SPC: (Specificity)                           0.987654   
+PPV: Pos Pred Value (Precision)                  0.833333   
+NPV: Neg Pred Value                               0.97561   
+FPR: False-out                                  0.0123457   
+FDR: False Discovery Rate                        0.166667   
+FNR: Miss Rate                                   0.285714   
+ACC: Accuracy                                    0.965909   
+F1 score                                         0.769231   
+MCC: Matthews correlation coefficient            0.753545   
+Informedness                                      0.70194   
+Markedness                                       0.808943   
+Prevalence                                      0.0795455   
+LR+: Positive likelihood ratio                    57.8571   
+LR-: Negative likelihood ratio                   0.289286   
+DOR: Diagnostic odds ratio                            200   
+FOR: False omission rate                        0.0243902   
+
+Classes                               Brain_-_Hypothalamus  \
+Population                                              88   
+P: Condition positive                                    7   
+N: Condition negative                                   81   
+Test outcome positive                                    3   
+Test outcome negative                                   85   
+TP: True Positive                                        3   
+TN: True Negative                                       81   
+FP: False Positive                                       0   
+FN: False Negative                                       4   
+TPR: (Sensitivity, hit rate, recall)              0.428571   
+TNR=SPC: (Specificity)                                   1   
+PPV: Pos Pred Value (Precision)                          1   
+NPV: Neg Pred Value                               0.952941   
+FPR: False-out                                           0   
+FDR: False Discovery Rate                                0   
+FNR: Miss Rate                                    0.571429   
+ACC: Accuracy                                     0.954545   
+F1 score                                               0.6   
+MCC: Matthews correlation coefficient             0.639064   
+Informedness                                      0.428571   
+Markedness                                        0.952941   
+Prevalence                                       0.0795455   
+LR+: Positive likelihood ratio                         inf   
+LR-: Negative likelihood ratio                    0.571429   
+DOR: Diagnostic odds ratio                             inf   
+FOR: False omission rate                         0.0470588   
+
+Classes                               Brain_-_Nucleus_Accumbens_(Basal_Ganglia)  \
+Population                                                                   88   
+P: Condition positive                                                         7   
+N: Condition negative                                                        81   
+Test outcome positive                                                         5   
+Test outcome negative                                                        83   
+TP: True Positive                                                             4   
+TN: True Negative                                                            80   
+FP: False Positive                                                            1   
+FN: False Negative                                                            3   
+TPR: (Sensitivity, hit rate, recall)                                   0.571429   
+TNR=SPC: (Specificity)                                                 0.987654   
+PPV: Pos Pred Value (Precision)                                             0.8   
+NPV: Neg Pred Value                                                    0.963855   
+FPR: False-out                                                        0.0123457   
+FDR: False Discovery Rate                                                   0.2   
+FNR: Miss Rate                                                         0.428571   
+ACC: Accuracy                                                          0.954545   
+F1 score                                                               0.666667   
+MCC: Matthews correlation coefficient                                  0.653497   
+Informedness                                                           0.559083   
+Markedness                                                             0.763855   
+Prevalence                                                            0.0795455   
+LR+: Positive likelihood ratio                                          46.2857   
+LR-: Negative likelihood ratio                                         0.433929   
+DOR: Diagnostic odds ratio                                              106.667   
+FOR: False omission rate                                              0.0361446   
+
+Classes                               Brain_-_Putamen_(Basal_Ganglia)  \
+Population                                                         88   
+P: Condition positive                                               7   
+N: Condition negative                                              81   
+Test outcome positive                                               1   
+Test outcome negative                                              87   
+TP: True Positive                                                   0   
+TN: True Negative                                                  80   
+FP: False Positive                                                  1   
+FN: False Negative                                                  7   
+TPR: (Sensitivity, hit rate, recall)                                0   
+TNR=SPC: (Specificity)                                       0.987654   
+PPV: Pos Pred Value (Precision)                                     0   
+NPV: Neg Pred Value                                           0.91954   
+FPR: False-out                                              0.0123457   
+FDR: False Discovery Rate                                           1   
+FNR: Miss Rate                                                      1   
+ACC: Accuracy                                                0.909091   
+F1 score                                                            0   
+MCC: Matthews correlation coefficient                      -0.0315171   
+Informedness                                               -0.0123457   
+Markedness                                                 -0.0804598   
+Prevalence                                                  0.0795455   
+LR+: Positive likelihood ratio                                      0   
+LR-: Negative likelihood ratio                                 1.0125   
+DOR: Diagnostic odds ratio                                          0   
+FOR: False omission rate                                    0.0804598   
+
+Classes                               Brain_-_Spinal_Cord_(Cervical_C-1)  \
+Population                                                            88   
+P: Condition positive                                                  5   
+N: Condition negative                                                 83   
+Test outcome positive                                                  7   
+Test outcome negative                                                 81   
+TP: True Positive                                                      5   
+TN: True Negative                                                     81   
+FP: False Positive                                                     2   
+FN: False Negative                                                     0   
+TPR: (Sensitivity, hit rate, recall)                                   1   
+TNR=SPC: (Specificity)                                          0.975904   
+PPV: Pos Pred Value (Precision)                                 0.714286   
+NPV: Neg Pred Value                                                    1   
+FPR: False-out                                                 0.0240964   
+FDR: False Discovery Rate                                       0.285714   
+FNR: Miss Rate                                                         0   
+ACC: Accuracy                                                   0.977273   
+F1 score                                                        0.833333   
+MCC: Matthews correlation coefficient                            0.83491   
+Informedness                                                    0.975904   
+Markedness                                                      0.714286   
+Prevalence                                                     0.0568182   
+LR+: Positive likelihood ratio                                      41.5   
+LR-: Negative likelihood ratio                                         0   
+DOR: Diagnostic odds ratio                                           inf   
+FOR: False omission rate                                               0   
+
+Classes                               Brain_-_Substantia_Nigra  
+Population                                                  88  
+P: Condition positive                                        6  
+N: Condition negative                                       82  
+Test outcome positive                                        7  
+Test outcome negative                                       81  
+TP: True Positive                                            4  
+TN: True Negative                                           79  
+FP: False Positive                                           3  
+FN: False Negative                                           2  
+TPR: (Sensitivity, hit rate, recall)                  0.666667  
+TNR=SPC: (Specificity)                                0.963415  
+PPV: Pos Pred Value (Precision)                       0.571429  
+NPV: Neg Pred Value                                   0.975309  
+FPR: False-out                                       0.0365854  
+FDR: False Discovery Rate                             0.428571  
+FNR: Miss Rate                                        0.333333  
+ACC: Accuracy                                         0.943182  
+F1 score                                              0.615385  
+MCC: Matthews correlation coefficient                 0.586932  
+Informedness                                          0.630081  
+Markedness                                            0.546737  
+Prevalence                                           0.0681818  
+LR+: Positive likelihood ratio                         18.2222  
+LR-: Negative likelihood ratio                        0.345992  
+DOR: Diagnostic odds ratio                             52.6667  
+FOR: False omission rate                             0.0246914  
+
